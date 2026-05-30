@@ -1,0 +1,6 @@
+8.8.8.8
+192.168.1.10
+malicious-login.ru
+paypal-security-alert.xyz
+44d88612fea8a8f36de82e1278abb02f
+eicar.com
