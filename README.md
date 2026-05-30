@@ -20,7 +20,7 @@ A simple SOC-style cybersecurity project built with Python and Streamlit for ana
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/threat-intelligence-dashboard.git
+git clone https://github.com/codescueduard24/threat-intelligence-dashboard.git
 cd threat-intelligence-dashboard
 pip install -r requirements.txt
 ```
